@@ -1,0 +1,7 @@
+{
+  "name": "Ecobee Utility Events",
+  "homeassistant": "2025.2.0",
+  "render_readme": true,
+  "content_in_root": false,
+  "zip_release": false
+}
