@@ -1,0 +1,14 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Ecobee Utility Events",
+        "description": "Surfaces the utility time-of-use curtailment events (touPrecool / touSetback / demandResponse) that the core ecobee integration fetches and then discards.\n\nNo credentials are needed: this reads the ecobee integration's existing in-memory data and makes no additional calls to api.ecobee.com.\n\n{status}\n\nSelect Submit to add it."
+      }
+    },
+    "abort": {
+      "already_configured": "Ecobee Utility Events is already set up.",
+      "single_instance_allowed": "Ecobee Utility Events is already set up. Only a single instance is supported."
+    }
+  }
+}
