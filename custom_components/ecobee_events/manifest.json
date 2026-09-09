@@ -1,0 +1,14 @@
+{
+  "domain": "ecobee_events",
+  "name": "Ecobee Utility Events",
+  "after_dependencies": ["ecobee"],
+  "codeowners": ["@Nate0524"],
+  "config_flow": true,
+  "documentation": "https://github.com/Nate0524/ha-ecobee-events",
+  "integration_type": "service",
+  "iot_class": "calculated",
+  "issue_tracker": "https://github.com/Nate0524/ha-ecobee-events/issues",
+  "requirements": [],
+  "single_config_entry": true,
+  "version": "1.0.0"
+}
